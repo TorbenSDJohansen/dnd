@@ -8,7 +8,7 @@ Possible, this might have clouded his judgement, and certainly impacted his unwi
 
 ## Childhood
 
-Valgroth was born in the year **XX** to Murudim and Elsadur Emberstone in Dun Modr, a dwarven stronghold in the mountains of **Grimdûr** near **Khazsrom**.
+Valgroth was born in the year **XX** to Murudim and Elsadur Emberstone in **Dun Modr**, a dwarven stronghold in the mountains of **Grimdûr** near **Khazsrom**.
 He grew up as the youngest of two brothers, Baradir 14 years his senior.
 Murudim worked as a scripe and Elsadur an archivist.
 They were both interested in history and lore, a passion they passed on to their children.
