@@ -102,9 +102,11 @@ During those travels, he would ultimately team up with [the fellowship](chars/pa
 
 ## The Band
 
-**And now we are at the mine...*
+*And now we are at the mine...*
 
 ## Ambitions
+
+### Sphere of Incandescent Wrath
 
 In the libraries of **Elaris**, in an old, dusty scroll, Valgroth learned of the Sphere of Incandescent Wrath.
 Though thought to be nothing more than an ancient legend, hardly more than a rumor, this intrigued the young dwarf, and his search through the world's archives and libraries has had a strong connection with his search for this magic relic.
@@ -115,3 +117,8 @@ This motivated his later travel to **Mijarion**, where he found documents specul
 However, this evidence was scarce, and to learn more, he decided to travel to **Stormhavn**, the library of which was speculated to contain more information about the whereabouts of the sphere.
 
 **Idea**: It could be in the depths of the caverns of **Kilomboro** or it could have been moved elsewhere.
+
+### Reconciliation
+
+Though he would never admit it, Valgroth ultimately seeks reconciliation with his brother, rumored to roam the northernmost lands of **Halanor**.
+Will he manage to find and make peace with [The Stormwarden](#the-stormwarden)?
