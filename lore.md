@@ -103,3 +103,15 @@ During those travels, he would ultimately team up with [the fellowship](chars/pa
 ## The Band
 
 **And now we are at the mine...*
+
+## Ambitions
+
+In the libraries of **Elaris**, in an old, dusty scroll, Valgroth learned of the Sphere of Incandescent Wrath.
+Though thought to be nothing more than an ancient legend, hardly more than a rumor, this intrigued the young dwarf, and his search through the world's archives and libraries has had a strong connection with his search for this magic relic.
+
+In **Skarros** he learned that the sphere was last speculated to have been lost in **Kilomboro**, where it was used to unleash devastating destruction upon the land, blackening its landscape.
+Though he searched the lands during his travels there, he was unable to locate the orb, and left unsure about whether its current location was truly in those lands.
+This motivated his later travel to **Mijarion**, where he found documents speculating that the sphere had been found and moved from **Kilomboro**.
+However, this evidence was scarce, and to learn more, he decided to travel to **Stormhavn**, the library of which was speculated to contain more information about the whereabouts of the sphere.
+
+**Idea**: It could be in the depths of the caverns of **Kilomboro** or it could have been moved elsewhere.
