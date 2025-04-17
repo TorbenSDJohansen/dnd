@@ -1,0 +1,4 @@
+- [x] ["Clear the Cave!"](clear-the-mine/desc.md)
+- [x] ["Damn Orcs!"](orcs/desc.md)
+- [ ] ["Monopoly"](monopoly/desc.md)
+- [ ] ["Bulwark of Resistance"](bulwark/desc.md)
