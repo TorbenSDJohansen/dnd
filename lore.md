@@ -1,6 +1,6 @@
 **Valgroth Emberstone** (142)
 
-Born in the volcanic mountains of Dur Mordr, Valgroth was orphaned following an eruption that killed his parents.
+Born in the volcanic mountains of **Dun Mordr**, Valgroth was orphaned following an eruption that killed his parents.
 That day, he swore to learn to control fire and flame and set out on an expedition to the known world's libraries in his quest to dominate the element.
 His travels would ultimately lead to him joining as paid mercenary for expeditions venturing through mountains, caves, and burning deserts (stopping him short from reading all the world's volumes on fire, though he won't admit this).
 What started as a young dwarf's cockiness would bring some success in this respect, earning him a – possible unwarranted – reputation as an authority on everything fire.
@@ -8,7 +8,7 @@ Possible, this might have clouded his judgement, and certainly impacted his unwi
 
 ## Childhood
 
-Valgroth was born in the year **XX** to Murudim and Elsadur Emberstone in Dun Modr, a dwarven stronghold in the mountains of Grimdûr near Khazsrom.
+Valgroth was born in the year **XX** to Murudim and Elsadur Emberstone in Dun Modr, a dwarven stronghold in the mountains of **Grimdûr** near **Khazsrom**.
 He grew up as the youngest of two brothers, Baradir 14 years his senior.
 Murudim worked as a scripe and Elsadur an archivist.
 They were both interested in history and lore, a passion they passed on to their children.
@@ -16,31 +16,31 @@ They were both interested in history and lore, a passion they passed on to their
 Both children showed some promise in magical ability, likely coming through their maternal lineage, though Elsadur herself did not wield magical abilities.
 However, their proficiency and attitude varied greatly.
 Whereas Valgroth was short-tempered and arrogant, Baradir was more composed and patient.
-And whereas Valgroth was partial to fiery power and ever eager to explore the depths of the volcanic caves of Dun Mordr, Baradir was partial to frost and more interested in exploring the mountain heights of Grimdûr, even during winter storms.
+And whereas Valgroth was partial to fiery power and ever eager to explore the depths of the volcanic caves of **Dun Mordr**, Baradir was partial to frost and more interested in exploring the mountain heights of **Grimdûr**, even during winter storms.
 
 While the brother were different, they nevertheless shared a strong bond, fueled in particular by their interest in exploring magical lore.
 And while Valgroth became somewhat infamous for his daring exploits, a reputation not entirely positive, Baradir was always there to help when these exploits inevitably angered their fellow citizens.
 
 ## Death of Parents
 
-One fateful morning in the year **XX**, while Valgroth was exploring some far-off caves and Baradir was scaling the mountain heights, disaster struck Don Mordr.
+One fateful morning in the year **XX**, while Valgroth was exploring some far-off caves and Baradir was scaling the mountain heights, disaster struck **Dun Mordr**.
 Suddenly, an explosion heard miles off shock the mountain, and lava erupted violently from the depths.
 On this day, both Murudim and Elsadur were working in the local archives, and while their fellow dwarfs ran to shelter, they stayed behind to save as many scrolls as they could.
 This valiant sacrifice, however, would be their ultimate doom, as the lava rised faster than they thought, and they found themselves trapped, killing them both.
 
-When the two brothers returned, both alarmed by the shock and making their way back as fast as they could, much of Dun Mordr was destroyed, and their parents nowhere to be found.
+When the two brothers returned, both alarmed by the shock and making their way back as fast as they could, much of **Dun Mordr** was destroyed, and their parents nowhere to be found.
 The brothers quickly made their way down and tried to breach the lava with their magic, but neither fiery nor frozen mastery was a match against the mass of lava.
 
 ## Travels with Baradir
 
 After this, a grim shadow descended upon the brothers in their grief.
 They both felt guilt for their inaptitude when trying to reach the archive to save their parents, and both swore to achieve mastery over their chosen element.
-Thus, they set out on a journey through the dwarven cities of Grimdûr to search through their archives for any knowledge to add to their repertoire.
-This journey took them through Khazsrom, Brakdûn, and Uldrazhar, before they set their eyes south to travel to other cities of Valmorr, including Elaris, Zornsrim, Thaldarrark, before travelling to the mountains of Uldrazhar, including travels to Zharasrim and Barakund.
+Thus, they set out on a journey through the dwarven cities of **Grimdûr** to search through their archives for any knowledge to add to their repertoire.
+This journey took them through **Khazsrom**, **Brakdûn**, and **Uldrazhar**, before they set their eyes south to travel to other cities of **Valmorr**, including **Elaris**, **Zornsrim**, **Thaldarrark**, before travelling to the mountains of **Uldrazhar**, including travels to **Zharasrim** and **Barakund**.
 
 During this time, the brothers added much to their magical mastery, but they grew more apart.
-Valgroth became ever bolder and full of himself, and started squabbling over frivolous matters, which would ultimately lead him into a duel with an archivist in Barakund that had grown angered with Valgroth's manners in the library.
-Unbeknownst to Valgroth, this Baradir had grown clode with this archivist, and when he leared of their upcoming duel he begged Valgroth to forfeit the duel and apologize.
+Valgroth became ever bolder and full of himself, and started squabbling over frivolous matters, which would ultimately lead him into a duel with an archivist in **Barakund** that had grown angered with Valgroth's manners in the library.
+Unbeknownst to Valgroth, Baradir had grown close with this archivist, and when he leared of their upcoming duel he begged Valgroth to forfeit the duel and apologize.
 However, Valgroth's pride did not allow him to back down.
 
 ## Separation of Brothers
@@ -68,7 +68,38 @@ Struck by shame for this development, but with pride unable to sustain such self
 
 *Subsequent lore of Baradir*
 
-## Solo Travels
+## Subsequent Travels
+
+### Travelling to **Scaelmar**
+
+From **Barakund**, Valgroth set out **Loevhavn**, first to study their archives and then to find a ship for the far-off lands of **Scaelmar**.
+There, he hoped to explore the burning deserts and the volcanic landscape of **Kilomboro** in his search for power.
+
+However, such a journey was not cheap and Valgroth had no funds left.
+He thus deviced a plan: Convince another group travelling there to hire him as a mercenary.
+Not only would this avoid him having to pay, we would himself be paid.
+Thus started Valgroth's adventures as a hired mercenary, with expertise in exploring caves, volcanic landscapes, or deserts.
+
+Landed in **Gondarach**, his first mission was as an escort to **Myradel** and a later expedition into the caves of **Myrchasor**.
+Through cunning, his exploits in defending against a group of bandits and finding the ways through complex cave systems earned him somewhat of a reputation.
+This led to more expeditions throughout **Scaelmar**, visiting cities such as **Timbasari**, **Kumanduras**, and **Racren**, as well as exploring the mountains of **Lyrrak**.
+Along the way, Valgroth always seeked out whatever knowledge could be found in libraries and archives he found during his travels.
+
+### Expedition to **Kilomboro**
+
+After having earned some amounts of wealth from his mercenary activities, Valgroth set his sights on an expedition of his own: Exploring the vulcanic wastelands of **Kilomboro**.
+To this end, he travelled first to **Skarros**, where he spent time learning as much as possible of the land and gathering a small handful of companions (**IDEA**: *This is where Valgroth meets Zugkurt, potentially others (Halfdan, Conrad, Rawager), but I think their backstory does not state they have been down here*).
+With this group of ragtag adventures, the expedition set sail to **Ashancir**, from where they began their explorations into the inhospitable volcanic landscapes of **Kilomboro**.
+
+This expedition would prove nearly fatal, as the lands were treacherous, full of sudden cliffs, heavy smog, minor eruptions, and hidden enemies.
+Throughout, Valgroth and his companions fought valiantly, and this expedition would prove transformative, as the adventures into the depths of **Kilomboro** taught Valgroth much in terms of fiery mastery.
+
+### Travels North
+
+Throughout Valgroth's travels through **Scaelmar**, he had learned that the library of **Stormhavn** held much knowledge he desired, and so he ventured north, sailing from **Ashancir** to **Mijarion**, where he explored the archives before then finding a ship sailing all the way to **Stormhavn** (**IDEA**: *Potentially travelling with Zugkurt, others*).
+Arriving there, he searched through its libraries before travelling east to the mountains of **Vestryssen**.
+During those travels, he would ultimately team up with [the fellowship](chars/party/README.md) (**IDEA**: *Or at least the remaining members*).
 
 ## The Band
 
+**And now we are at the mine...*
