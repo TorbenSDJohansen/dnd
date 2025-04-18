@@ -12,7 +12,7 @@ Silas is defended by six guards
 1. **Gorlan**: Engineer, in charge of traps. Less intimidating in a fight than the other guards when not on home turf, but **do not** fight him in hiw own element. Red thiefling.
 1. **Talia**: Poison resistant, very resistant against hits. Uses longsword. Halforc
 1. **Bromar**: Wizard, not armored. Omega-powerful, **allegedly** more powerful than Valgroth (surely cannot be). Dwarf, but larger than a hyman in size.
-1. **Grundhilda**: Ranger. Carries magical bow. Dwarf
+1. **Grundhilda**: Ranger. Carries magical bow. Dwarf.
 
 ### Guard schedule
 
