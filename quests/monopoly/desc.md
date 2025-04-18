@@ -1,4 +1,4 @@
-Deal with Fia Glass' competitor in Jernhold
+Deal with Fia Glass' competitor in Jernhold.
 Kill Silas Braa.
 
 - **Location**: Gildmereholt, Jernhold
@@ -7,14 +7,14 @@ Kill Silas Braa.
 ## Details
 
 Silas is defended by six guards
-1. Balin: In charge of security. Stationed during daytime, less attentive later on in the day. Heavily armored, not easily scared. Huge and brutal. Uses a great sword. Do not let him move - known as a galloping bull. Human.
-1. Diara: Head of intelligence, incl. leading a spy network. Very resistant against charm. Very perceptive and evasive. Human.
-1. Gorlan: Engineer, in charge of traps. Less intimidating in a fight than the other guards when not on home turf, but **do not** fight him in hiw own element. Red thiefling.
-1. Talia: Poison resistant, very resistant against hits. Uses longsword. Halforc
-1. Bromar: Wizard, not armored. Omega-powerful, **allegedly** more powerful than Valgroth (surely cannot be). Dwarf, but larger than a hyman in size.
-1. Grundhilda: Ranger. Carries magical bow. Dwarf
+1. **Balin**: In charge of security. Stationed during daytime, less attentive later on in the day. Heavily armored, not easily scared. Huge and brutal. Uses a great sword. Do not let him move - known as a galloping bull. Human.
+1. **Diara**: Head of intelligence, incl. leading a spy network. Very resistant against charm. Very perceptive and evasive. Human.
+1. **Gorlan**: Engineer, in charge of traps. Less intimidating in a fight than the other guards when not on home turf, but **do not** fight him in hiw own element. Red thiefling.
+1. **Talia**: Poison resistant, very resistant against hits. Uses longsword. Halforc
+1. **Bromar**: Wizard, not armored. Omega-powerful, **allegedly** more powerful than Valgroth (surely cannot be). Dwarf, but larger than a hyman in size.
+1. **Grundhilda**: Ranger. Carries magical bow. Dwarf
 
-**Guard schedule**
+### Guard schedule
 
 ![Guard Duty Schedule](schedule.png)
 
