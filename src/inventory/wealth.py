@@ -46,5 +46,3 @@ WEALTH.dcurrency(
     vals=-3-2-6-7-4-2-7-8,
     valc=-5-7-7-3,
 )
-
-print(WEALTH)
