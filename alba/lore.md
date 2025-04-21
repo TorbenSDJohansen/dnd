@@ -29,12 +29,20 @@ Will you join the meeting?
 ### Meeting [**DRUID**]()
 
 The next morning, the brothers and the adventurer set out to meet [**DRUID**]().
-Meeting her, she looks alarmed and as if she has not slept for several days.
+Meeting her, she looks alarmed and as if she has not slept for several days, yet glad to see the brothers.
+Explaining how they met the band of adventures the night before, [**DRUID**]() shares how she has been troubled by nightmares of the land withering away and a darkness growing.
+However, she has not been able to determine precisely from where; it is as if several sources of evil has awakened all at once, from the northern frost giants to the witches of the dark forest to the east.
+She has, however, managed to commune with the land of the Clann Grannd and noticed that the once tranquil [Enchanted Forest]() appears disturbed.
+Perhaps this might explain the hostile reception [Calum Dòmhnallach](chars/calum.md) received in [Inbhir Nis]()?
 
+[**DRUID**]() suggests an expedition should set out to investigate the [Enchanted Forest]().
+With luck, the evil can be banished and relations with Clann Grannd restored.
 
 ## Quests
 
 ### The Enchanted Forest
+
+
 
 ### 
 
