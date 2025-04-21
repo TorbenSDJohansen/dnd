@@ -4,6 +4,7 @@ from .spell import (
 
 
 Fireball = Spell(
+    name='Fireball',
     level=3,
     cast_range=150,
     components=['V', 'S', 'M'],

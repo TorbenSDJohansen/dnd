@@ -106,7 +106,7 @@ class Character:
     # Complex
     inventory: Inventory
     spells: list[Spell] = None
-    equipment: list[Item] = None
+    equipment: dict[str, Item] = None
 
     # Skills
     def skill_bonus(self, skill: Skill) -> int:

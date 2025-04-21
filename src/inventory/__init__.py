@@ -1,1 +1,1 @@
-from .inventory import Inventory, INVENTORY
+from .inventory import Wealth, Inventory

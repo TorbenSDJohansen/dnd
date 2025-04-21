@@ -12,6 +12,7 @@ DamageType = Literal['fire', 'lightning']
 
 @dataclass
 class Spell:
+    name: str
     level: int
     cast_range: Range
     components: list[Component]

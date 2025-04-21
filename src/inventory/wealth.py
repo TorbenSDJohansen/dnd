@@ -33,16 +33,3 @@ class Wealth:
         self.dgold(valg)
         self.dsilver(vals)
         self.dcopper(valc)
-
-
-WEALTH = Wealth(
-    copper=6,
-    silver=0,
-    gold=530,
-)
-
-WEALTH.dcurrency(
-    valg=+5500-100-1-1-150,
-    vals=-3-2-6-7-4-2-7-8,
-    valc=-5-7-7-3,
-)

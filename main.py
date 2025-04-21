@@ -1,13 +1,10 @@
 import random
 
-from src.inventory import INVENTORY
-from src.spells import SPELLS
-from src.equipment import EQUIPMENT
 from src.chars import VALGROTG_EMBERSTONE
 
 
 def cast_damage_spell(name: str):
-    spell = SPELLS[name]
+    spell = VALGROTG_EMBERSTONE.spells[name]
     damage = 0
 
     num_dice, die = spell.damage
@@ -20,36 +17,36 @@ def cast_damage_spell(name: str):
 
         damage += hit
 
-    ddamage = sum(item.ddamage for item in EQUIPMENT.values())
+    ddamage = sum(item.ddamage for item in VALGROTG_EMBERSTONE.equipment.values())
     damage += ddamage
 
     if spell.damage_type == 'fire':
-        ddamage_fire = sum(item.ddamage_fire for item in EQUIPMENT.values())
+        ddamage_fire = sum(item.ddamage_fire for item in VALGROTG_EMBERSTONE.equipment.values())
         damage += ddamage_fire
 
     return damage
 
 
 def main():
-    # for key, value in INVENTORY.__dict__.items():
-    #     print(key, value)
+    for key, value in VALGROTG_EMBERSTONE.inventory.__dict__.items():
+        print(key, value)
 
-    # for name, item in EQUIPMENT.items():
-    #     print(name, item)
+    for name, item in VALGROTG_EMBERSTONE.equipment.items():
+        print(name, item)
 
-    # damages = []
+    damages = []
 
-    # for _ in range(1000):
-    #     damages.append(cast_damage_spell('Fire Bolt'))
+    for _ in range(1000):
+        damages.append(cast_damage_spell('Fire Bolt'))
 
-    # print(damages)
+    print(min(damages), max(damages), sum(damages) / len(damages))
 
-    # damages = []
+    damages = []
 
-    # for _ in range(100000):
-    #     damages.append(cast_damage_spell('Fireball'))
+    for _ in range(100000):
+        damages.append(cast_damage_spell('Fireball'))
 
-    # print(damages)
+    print(min(damages), max(damages), sum(damages) / len(damages))
 
     # from matplotlib import pyplot as plt
     # plt.hist(damages, bins=100)
