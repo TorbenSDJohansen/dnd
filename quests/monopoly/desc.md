@@ -51,5 +51,7 @@ With Bromar & Talia dead, our adventurers are forced to flee from Gildmereholt.
 Noticing that Rawager is clearly tracked by magic, Urth and Valgroth splits to find a new safe inn, locating to **Rævens Hvile**, which is near **Den Gyldne Krage**.
 
 As Grundhilda tracks down Rawager & Conrad, Renato comes to the rescue, and they manage to apprehend Grundhilda, who is later hired to be on our side (under a Zone of Truth).
-During us questioning her, we learn Silas has been moved to **Eastern Mine**, which has one entry.
+During us questioning her, we learn Silas has been moved to **Eastern Mine**, which has one entry (Grundhilda draws a map for us).
 New plan is to infiltrate the mine and finish the job.
+
+![Guard Duty Schedule](mine.jpg)
