@@ -11,7 +11,7 @@ Its overarching objective is to unite the Siol Alpin, a family of seven clans.
 
 ### The Bar
 
-In the bar []() in [An t-Eilean Sgitheanach](), a group of adventures overhear the brothers [Ruaraidh Dòmhnallach](chars/ruaraidh.md) and [Calum Dòmhnallach](chars/calum.md) discuss a growing dissent between the once united clans of [Siol Alpin]().
+In the bar [**NAME**]() in [An t-Eilean Sgitheanach](), a group of adventures overhear the brothers [Ruaraidh Dòmhnallach](chars/ruaraidh.md) and [Calum Dòmhnallach](chars/calum.md) discuss a growing dissent between the once united clans of [Siol Alpin]().
 In their travels, both being bards, they have been met with a hostility never encountered before in the lands of [Alba]().
 Once again united in their home of [Portree](), they discuss what might be the cause and how to remedy the unfortunate situation.
 
@@ -33,14 +33,14 @@ Meeting her, she looks alarmed and as if she has not slept for several days, yet
 Explaining how they met the band of adventures the night before, [**DRUID**]() shares how she has been troubled by nightmares of the land withering away and a darkness growing.
 However, she has not been able to determine precisely from where; it is as if several sources of evil has awakened all at once, from the northern frost giants to the witches of the dark forest to the east.
 She has, however, managed to commune with the land of the Clann Grannd and noticed that the once tranquil [Enchanted Forest]() appears disturbed.
-Perhaps this might explain the hostile reception [Calum Dòmhnallach](chars/calum.md) received in [Inbhir Nis]()?
+Perhaps this might explain the hostile reception [Calum Dòmhnallach](chars/calum.md) received in [Inbhir Nis]().
 
-[**DRUID**]() suggests an expedition should set out to investigate the [Enchanted Forest]().
+[**DRUID**]() suggests an expedition should set out to investigate the [Enchanted Forest](quests/enchanted-forest.md).
 With luck, the evil can be banished and relations with Clann Grannd restored.
 
 ## Quests
 
-### The Enchanted Forest
+1. [The Enchanted Forest](quests/enchanted-forest.md)
 
 
 
