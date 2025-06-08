@@ -51,6 +51,7 @@ INVENTORY = Inventory(
         'Quill',
         'Ink',
         'Letter from a dead colleague posing a question you have not yet been able to answer',
+        'Crystals taken from a mine cart in the Eastern Mine in Jernholm',
     ]
 )
 
