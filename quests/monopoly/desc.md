@@ -52,6 +52,11 @@ Noticing that Rawager is clearly tracked by magic, Urth and Valgroth splits to f
 
 As Grundhilda tracks down Rawager & Conrad, Renato comes to the rescue, and they manage to apprehend Grundhilda, who is later hired to be on our side (under a Zone of Truth).
 During us questioning her, we learn Silas has been moved to **Eastern Mine**, which has one entry (Grundhilda draws a map for us).
+Further, **Helvedes Hunde** has been called as back-up.
 New plan is to infiltrate the mine and finish the job.
 
 ![Guard Duty Schedule](mine.jpg)
+
+### Why did Grundhilda change allegiance?
+
+Promised her 1,300 gold and promised to introduce her to **Fia Glass**.
