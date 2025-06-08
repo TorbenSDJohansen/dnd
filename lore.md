@@ -118,6 +118,15 @@ However, this evidence was scarce, and to learn more, he decided to travel to **
 
 **Idea**: It could be in the depths of the caverns of **Kilomboro** or it could have been moved elsewhere.
 
+## Shimmering Sorcerers Hat
+
+Every ~~wizard~~sorcerer needs a hat.
+Valgroth needs a good one.
+The best one.
+
+When searching for the [**Sphere of Incandescent Wrath**](#sphere-of-incandescent-wrath) in **Stormhavn**, Valgroth stumbled upon tales of the **Shimmering Sorcerers Hat**, a rumered relic of ancient, wild magic.
+Little is know about its location, but Valgroth believes searching the libraries of **Talindra** might prove fruitful for his future search.
+
 ### Reconciliation
 
 Though he would never admit it, Valgroth ultimately seeks reconciliation with his brother, rumored to roam the northernmost lands of **Halanor**.
