@@ -118,7 +118,7 @@ However, this evidence was scarce, and to learn more, he decided to travel to **
 
 **Idea**: It could be in the depths of the caverns of **Kilomboro** or it could have been moved elsewhere.
 
-## Shimmering Sorcerers Hat
+### Shimmering Sorcerers Hat
 
 Every ~~wizard~~sorcerer needs a hat.
 Valgroth needs a good one.
