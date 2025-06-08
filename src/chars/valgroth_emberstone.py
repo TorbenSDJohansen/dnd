@@ -28,6 +28,11 @@ WEALTH.dcurrency(
     vals=-3-2-6-7-4-2-7-8,
     valc=-5-7-7-3,
 )
+WEALTH.dcurrency(
+    valg=-1-1+1-1,
+    vals=-6-5-5,
+    valc=0,
+)
 
 INVENTORY = Inventory(
     wealth=WEALTH,
@@ -84,7 +89,7 @@ VALGROTG_EMBERSTONE = SorcererCharacter(
     charisma=12,
     hp_max=38,
     proficiency_bonus=3,
-    proficiencies=["arcana", "history", "insight", "constitution", "charisma"],
+    proficiencies=["arcana", "history", "insight", "persuasion", "constitution", "charisma"],
     equipment=EQUIPMENT,
     inventory=INVENTORY,
     spells=SPELLS,
