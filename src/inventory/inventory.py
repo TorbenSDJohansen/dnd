@@ -10,4 +10,5 @@ class Inventory:
     horse_rations: int
     torches: int
     pitons: int
+    crossbow_bolts: int
     various: list[str]

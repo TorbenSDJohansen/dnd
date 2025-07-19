@@ -10,6 +10,7 @@ from ..equipment import (
     CROSSBOW,
     SPELLGEM_SPHERE,
     SHATTERGEM,
+    QUEENS_FEATHER,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -33,16 +34,20 @@ WEALTH.dcurrency(
     vals=-6-5-5,
     valc=0,
 )
+WEALTH.dcurrency(
+    valg=5+243,
+    vals=4,
+)
 
 INVENTORY = Inventory(
     wealth=WEALTH,
-    rations=11,
+    rations=10,
     horse_rations=7,
     torches=10,
     pitons=10,
+    crossbow_bolts=19,
     various=[
         'Bedroll',
-        'Rope, 50ft',
         'Small knife',
         'Crowbar',
         'Hammer',
@@ -52,6 +57,12 @@ INVENTORY = Inventory(
         'Ink',
         'Letter from a dead colleague posing a question you have not yet been able to answer',
         'Crystals taken from a mine cart in the Eastern Mine in Jernholm',
+        '24 screws',
+        '6 nails',
+        'Long metal rod from Gorlan, perhaps more than an ordinary piece of metal',
+        'Magical pouch from Balen, given by Renato after he looted it (not yet identified)',
+        'Papers and a badly damages scroll from Silas Braas (not yet checked out)',
+        'Various papers Conrad stole from the office of Silas Braas (not yet checked out)',
     ]
 )
 
@@ -65,6 +76,7 @@ EQUIPMENT: dict[str, Item] = {
     CROSSBOW.name: CROSSBOW,
     SPELLGEM_SPHERE.name: SPELLGEM_SPHERE,
     SHATTERGEM.name: SHATTERGEM,
+    QUEENS_FEATHER.name: QUEENS_FEATHER,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,

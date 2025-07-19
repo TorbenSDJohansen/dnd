@@ -29,7 +29,7 @@ class Wealth:
         self.dsilver(dsilver)
         self.copper -= 10 * dsilver
 
-    def dcurrency(self, valg: int, vals: int, valc: int):
+    def dcurrency(self, valg: int = 0, vals: int = 0, valc: int = 0):
         self.dgold(valg)
         self.dsilver(vals)
         self.dcopper(valc)

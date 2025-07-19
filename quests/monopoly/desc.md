@@ -60,3 +60,6 @@ New plan is to infiltrate the mine and finish the job.
 ### Why did Grundhilda change allegiance?
 
 Promised her 1,300 gold and promised to introduce her to **Fia Glass**.
+
+### Assault on the Eastern Mine
+
