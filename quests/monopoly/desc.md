@@ -63,3 +63,12 @@ Promised her 1,300 gold and promised to introduce her to **Fia Glass**.
 
 ### Assault on the Eastern Mine
 
+Managed to take out Balen, Diara, and Gorlan (and some random guards), and after a chase also Silas.
+Found and freed Loken.
+Barricaded us below for a long rest, next day plan to escape.
+Stealth did not work, and Helvedes Hunde guards found us, but we manages to take them out, including two alphas (strongest guys aside from local leaders, mostly present in Skalara).
+
+Called Fia Glass afterwards, but there is trouble with payment:
+Thyra has taken control over Fia's funds, and thus we cannot be paid.
+Plan is now akin to a bank heist - breaking into vault to steal the 25,000 gold to act as out payment.
+Convinced Fia to help us with this -- on the condition that she can get the killing blow on Thyra.
