@@ -26,7 +26,7 @@ And while Valgroth became somewhat infamous for his daring exploits, a reputatio
 One fateful morning in the year **XX**, while Valgroth was exploring some far-off caves and Baradir was scaling the mountain heights, disaster struck **Dun Mordr**.
 Suddenly, an explosion heard miles off shock the mountain, and lava erupted violently from the depths.
 On this day, both Murudim and Elsadur were working in the local archives, and while their fellow dwarfs ran to shelter, they stayed behind to save as many scrolls as they could.
-This valiant sacrifice, however, would be their ultimate doom, as the lava rised faster than they thought, and they found themselves trapped, killing them both.
+This valiant sacrifice, however, would be their ultimate doom, as the lava rose faster than they thought, and they found themselves trapped, killing them both.
 
 When the two brothers returned, both alarmed by the shock and making their way back as fast as they could, much of **Dun Mordr** was destroyed, and their parents nowhere to be found.
 The brothers quickly made their way down and tried to breach the lava with their magic, but neither fiery nor frozen mastery was a match against the mass of lava.
@@ -36,11 +36,11 @@ The brothers quickly made their way down and tried to breach the lava with their
 After this, a grim shadow descended upon the brothers in their grief.
 They both felt guilt for their inaptitude when trying to reach the archive to save their parents, and both swore to achieve mastery over their chosen element.
 Thus, they set out on a journey through the dwarven cities of **Grimdûr** to search through their archives for any knowledge to add to their repertoire.
-This journey took them through **Khazsrom**, **Brakdûn**, and **Uldrazhar**, before they set their eyes south to travel to other cities of **Valmorr**, including **Elaris**, **Zornsrim**, **Thaldarrark**, before travelling to the mountains of **Uldrazhar**, including travels to **Zharasrim** and **Barakund**.
+This journey took them through **Khazsrom**, **Brakdûn**, and **Uldrazhar**, before they set their eyes south to travel to other cities of **Valmorr**, including **Elaris**, **Zornsrim**, **Thaldarrark**, before traveling to the mountains of **Uldrazhar**, including travels to **Zharasrim** and **Barakund**.
 
 During this time, the brothers added much to their magical mastery, but they grew more apart.
 Valgroth became ever bolder and full of himself, and started squabbling over frivolous matters, which would ultimately lead him into a duel with an archivist in **Barakund** that had grown angered with Valgroth's manners in the library.
-Unbeknownst to Valgroth, Baradir had grown close with this archivist, and when he leared of their upcoming duel he begged Valgroth to forfeit the duel and apologize.
+Unbeknownst to Valgroth, Baradir had grown close with this archivist, and when he learned of their upcoming duel he begged Valgroth to forfeit the duel and apologize.
 However, Valgroth's pride did not allow him to back down.
 
 ## Separation of Brothers
@@ -49,10 +49,10 @@ On the day of the duel, Baradir made one final attempt at convincing Valgroth to
 Neither could he convince Ysyldir to back down, for her pride was great as well.
 He thus asked Ysyldir to be her champion, which she reluctantly agreed to, and thus the two brothers had become duelists.
 
-The figthing was fierce, in a duel that would afterwards be known as a *Song of Ice and Fire*.
+The fighting was fierce, in a duel that would afterwards be known as a *Song of Ice and Fire*.
 Neither side yielded, and yet neither was more powerful than the other and could thus not overcome the opponent's defenses.
 Thus the fight was long and hard, and with both contestants at the brink of exhaustion, Baradir called out that this quarrel was pointless and an armistice was called for, which Valgroth accepted.
-While the spectators were dissapointed that the duel ended prematurely, they nevertheless saw that both had fought hard and fiercely, and they cheered the two duelists for impressive fight they had put up.
+While the spectators were disappointed that the duel ended prematurely, they nevertheless saw that both had fought hard and fiercely, and they cheered the two duelists for impressive fight they had put up.
 That is, all except for Ysyldir, for her pride could not sustain the defeat she saw, and while the brothers were surrounded by a mass of spectators, she ran off.
 
 Later in the evening, when Baradir went to try to find her and was unable to do so, he grew increasingly uneasy, for he know realized what must have happened, and that she would be unable to live with this injury to her pride.
@@ -76,14 +76,14 @@ From **Barakund**, Valgroth set out **Loevhavn**, first to study their archives 
 There, he hoped to explore the burning deserts and the volcanic landscape of **Kilomboro** in his search for power.
 
 However, such a journey was not cheap and Valgroth had no funds left.
-He thus deviced a plan: Convince another group travelling there to hire him as a mercenary.
+He thus devised a plan: Convince another group travelling there to hire him as a mercenary.
 Not only would this avoid him having to pay, we would himself be paid.
 Thus started Valgroth's adventures as a hired mercenary, with expertise in exploring caves, volcanic landscapes, or deserts.
 
 Landed in **Gondarach**, his first mission was as an escort to **Myradel** and a later expedition into the caves of **Myrchasor**.
 Through cunning, his exploits in defending against a group of bandits and finding the ways through complex cave systems earned him somewhat of a reputation.
 This led to more expeditions throughout **Scaelmar**, visiting cities such as **Timbasari**, **Kumanduras**, and **Racren**, as well as exploring the mountains of **Lyrrak**.
-Along the way, Valgroth always seeked out whatever knowledge could be found in libraries and archives he found during his travels.
+Along the way, Valgroth always sought out whatever knowledge could be found in libraries and archives he found during his travels.
 
 ### Expedition to **Kilomboro**
 
@@ -124,8 +124,17 @@ Every ~~wizard~~sorcerer needs a hat.
 Valgroth needs a good one.
 The best one.
 
-When searching for the [**Sphere of Incandescent Wrath**](#sphere-of-incandescent-wrath) in **Stormhavn**, Valgroth stumbled upon tales of the **Shimmering Sorcerers Hat**, a rumered relic of ancient, wild magic.
+When searching for the [**Sphere of Incandescent Wrath**](#sphere-of-incandescent-wrath) in **Stormhavn**, Valgroth stumbled upon tales of the **Shimmering Sorcerers Hat**, a rumered relic of ancient, wild magic (**idea is to have a chaotic, wild magic themed item**).
 Little is know about its location, but Valgroth believes searching the libraries of **Talindra** might prove fruitful for his future search.
+
+Legends of the hat first emerged during the (**first? cannot remember. thinking of the one where shield was lost**) invasion of **Medora**.
+A young (**whatever race is appropriate for the area**) sorcerer from the mountains near Yloria (**if it makes sense for someone from here to fight, I guess area was completely ruined at some point, but maybe still makes sense someone could come from here early on?**), inspired by her fellow country-men's bravery, joined the fight against the orcish horde.
+
+**Idea**: Need to add some story, but the big picture would be that she fought bravely, but her batallion was ultimately run over.
+Here, she convincing her batallion to flee and then sacrificed herself, unleashing her most powerful wild magic.
+Hat was then never seen afterwards, but is rumored to still have survived the powerful forces.
+
+**Idea 2**: Maybe the hat has a bit of a Fae connection?
 
 ### Reconciliation
 
