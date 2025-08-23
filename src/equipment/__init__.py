@@ -9,3 +9,4 @@ from .crossbow import CROSSBOW
 from .spellgem_sphere import SPELLGEM_SPHERE
 from .shattergem import SHATTERGEM
 from .queens_feather import QUEENS_FEATHER
+from .immovable_rod import IMMOVABLE_ROD

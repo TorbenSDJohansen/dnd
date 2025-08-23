@@ -10,7 +10,7 @@ from ..equipment import (
     CROSSBOW,
     SPELLGEM_SPHERE,
     SHATTERGEM,
-    QUEENS_FEATHER,
+    IMMOVABLE_ROD,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -38,10 +38,16 @@ WEALTH.dcurrency(
     valg=5+243,
     vals=4,
 )
+WEALTH.dcurrency( # 250726
+    valg=10, # Loot from "Vogtor"
+)
+# WEALTH.dcurrency( # 250822
+#     valg=,
+# )
 
 INVENTORY = Inventory(
     wealth=WEALTH,
-    rations=10,
+    rations=9,
     horse_rations=7,
     torches=10,
     pitons=10,
@@ -63,6 +69,8 @@ INVENTORY = Inventory(
         'Magical pouch from Balen, given by Renato after he looted it (not yet identified)',
         'Papers and a badly damages scroll from Silas Braas (not yet checked out)',
         'Various papers Conrad stole from the office of Silas Braas (not yet checked out)',
+        'Worn silver amulet with image of a god (also loot from Vogtor)',
+        
     ]
 )
 
@@ -76,7 +84,7 @@ EQUIPMENT: dict[str, Item] = {
     CROSSBOW.name: CROSSBOW,
     SPELLGEM_SPHERE.name: SPELLGEM_SPHERE,
     SHATTERGEM.name: SHATTERGEM,
-    QUEENS_FEATHER.name: QUEENS_FEATHER,
+    IMMOVABLE_ROD.name: IMMOVABLE_ROD,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,
@@ -99,7 +107,7 @@ VALGROTG_EMBERSTONE = SorcererCharacter(
     constitution=12,
     intelligence=12,
     wisdom=12,
-    charisma=12,
+    charisma=13,
     hp_max=38,
     proficiency_bonus=3,
     proficiencies=["arcana", "history", "insight", "persuasion", "constitution", "charisma"],
