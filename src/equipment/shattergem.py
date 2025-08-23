@@ -12,5 +12,4 @@ Once shattered, the gem is destroyed, its arcane energy expended.
 SHATTERGEM = Item(
     name='Shattergem',
     desc=_DESC,
-    attuned=True,
 )

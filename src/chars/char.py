@@ -188,6 +188,24 @@ class SorcererCharacter(Character):
 
         return self.level
 
+    @property
+    def spell_attack_bonus(self) -> int:
+        bonus = (self.charisma - 10) // 2 + self.proficiency_bonus
+        bonus += sum(item.dspell_attack for item in self.equipment.values())
+
+        return bonus
+
+    @property
+    def spell_save_dc(self) -> int:
+        dc = 8 + (self.charisma - 10) // 2 + self.proficiency_bonus
+        dc += sum(item.dspell_save_dc for item in self.equipment.values())
+
+        return dc
+
+    @property
+    def num_attuned_items(self) -> int:
+        return sum(1 for item in self.equipment.values() if item.attuned)
+
     def spell_slots(self, spell_level: int) -> int:
         slots = self.spell_slot_table[self.level]
 

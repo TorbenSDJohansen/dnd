@@ -57,7 +57,9 @@ def main():
     print(VALGROTG_EMBERSTONE.spell_slots(3))
     print(VALGROTG_EMBERSTONE.spell_slots(4))
 
-
+    print(VALGROTG_EMBERSTONE.spell_attack_bonus)
+    print(VALGROTG_EMBERSTONE.spell_save_dc)
+    print(VALGROTG_EMBERSTONE.num_attuned_items)
 
 
 if __name__ == '__main__':

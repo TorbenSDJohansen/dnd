@@ -1,9 +1,7 @@
 from .char import SorcererCharacter
 from ..equipment import (
     Item,
-    CURSED_RING,
     LEATHER_ARMOR,
-    IMBUED_STAFF,
     RING_OF_POLYMORPH,
     ORB,
     DAGGER,
@@ -11,6 +9,8 @@ from ..equipment import (
     SPELLGEM_SPHERE,
     SHATTERGEM,
     IMMOVABLE_ROD,
+    ARTIFICIAL_WEAVE_SHARD_GLOVE,
+    EMBERWELL_VIAL,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -41,9 +41,9 @@ WEALTH.dcurrency(
 WEALTH.dcurrency( # 250726
     valg=10, # Loot from "Vogtor"
 )
-# WEALTH.dcurrency( # 250822
-#     valg=,
-# )
+WEALTH.dcurrency( # 250822
+    valg=-10+355-350-3050, # Enter university archive, gold from Urth, buy diamon and give Urth, buy items
+)
 
 INVENTORY = Inventory(
     wealth=WEALTH,
@@ -70,14 +70,12 @@ INVENTORY = Inventory(
         'Papers and a badly damages scroll from Silas Braas (not yet checked out)',
         'Various papers Conrad stole from the office of Silas Braas (not yet checked out)',
         'Worn silver amulet with image of a god (also loot from Vogtor)',
-        
+        'Crossbow',
     ]
 )
 
 EQUIPMENT: dict[str, Item] = {
-    CURSED_RING.name: CURSED_RING,
     LEATHER_ARMOR.name: LEATHER_ARMOR,
-    IMBUED_STAFF.name: IMBUED_STAFF,
     RING_OF_POLYMORPH.name: RING_OF_POLYMORPH,
     ORB.name: ORB,
     DAGGER.name: DAGGER,
@@ -85,6 +83,8 @@ EQUIPMENT: dict[str, Item] = {
     SPELLGEM_SPHERE.name: SPELLGEM_SPHERE,
     SHATTERGEM.name: SHATTERGEM,
     IMMOVABLE_ROD.name: IMMOVABLE_ROD,
+    ARTIFICIAL_WEAVE_SHARD_GLOVE.name: ARTIFICIAL_WEAVE_SHARD_GLOVE,
+    EMBERWELL_VIAL.name: EMBERWELL_VIAL,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,

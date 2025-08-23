@@ -12,5 +12,4 @@ To store a spell, a caster must touch the sphere while casting a spell of the ap
 SPELLGEM_SPHERE = Item(
     name='Spellgem Sphere',
     desc=_DESC,
-    attuned=True,
 )

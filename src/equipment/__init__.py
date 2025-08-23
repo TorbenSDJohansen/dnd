@@ -10,3 +10,5 @@ from .spellgem_sphere import SPELLGEM_SPHERE
 from .shattergem import SHATTERGEM
 from .queens_feather import QUEENS_FEATHER
 from .immovable_rod import IMMOVABLE_ROD
+from .artificial_weave_shard_glove import ARTIFICIAL_WEAVE_SHARD_GLOVE
+from .emberwell_vial import EMBERWELL_VIAL
