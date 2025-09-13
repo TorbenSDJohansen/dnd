@@ -2,3 +2,5 @@
 - [x] ["Damn Orcs!"](orcs/desc.md)
 - [ ] ["Monopoly"](monopoly/desc.md)
 - [ ] ["Bulwark of Resistance"](bulwark/desc.md)
+- [ ] ["Dealings with the Devil"](devil/desc.md)
+- [ ] ["Shimmering Sorcerers Hat"](hat/desc.md)
