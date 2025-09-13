@@ -31,6 +31,11 @@ def get_characters_from_excel(file_path: str) -> list[NPC]:
     return characters
 
 
+def sanitize(value: str) -> str:
+    # Replace line breaks and excessive whitespace with a single space
+    return " ".join(str(value).split())
+
+
 def make_markdown_table(characters: list[NPC]) -> str:
     header = (
         "| Name     "
@@ -46,10 +51,6 @@ def make_markdown_table(characters: list[NPC]) -> str:
         "|------------------"
         "|------------------------------|"
     )
-
-    def sanitize(value: str) -> str:
-        # Replace line breaks and excessive whitespace with a single space
-        return " ".join(str(value).split())
 
     rows = []
     for char in characters:
