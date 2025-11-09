@@ -81,6 +81,7 @@ INVENTORY = Inventory(
         'Worn silver amulet with image of a god (also loot from Vogtor)',
         'Blank paper and parchment from Blodens Brise, seems magical but not sure how',
         'Jewelry, gold, silver, and gems from Blodens Brise',
+        "Various pages from Thyra's office, but scattered and not yet organized after explosive trap upon entering. Written in Draconic",
     ]
 )
 
