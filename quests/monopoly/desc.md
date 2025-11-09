@@ -72,3 +72,24 @@ Called Fia Glass afterwards, but there is trouble with payment:
 Thyra has taken control over Fia's funds, and thus we cannot be paid.
 Plan is now akin to a bank heist - breaking into vault to steal the 25,000 gold to act as out payment.
 Convinced Fia to help us with this -- on the condition that she can get the killing blow on Thyra.
+
+### Travels to Møllehavn
+
+After being teleported to Talindra upon reaching the agreement with [Alythor Varnix](https://github.com/TorbenSDJohansen/dnd/blob/main/quests/devil/desc.md), we choose to get a boat and sail north to Møllehavn to meet up with Fia Glass and join the rebellion against Thyra (rather then going to [Yloria to chase Dimensionssøgerne, which would have been better...](https://github.com/TorbenSDJohansen/dnd/blob/main/quests/hat/desc.md)).
+During our travels north, we encounter a pirate ship which assaults us, looking first as Blodens Brise, the ship of infamous pirate [**name**?].
+However, this turns out to be a Beholder (rather fortunate for us), and after chasing it off and taking over Blodens Brise, we continue towards Møllehavn.
+Nearing it, we anchor at an island and leave the ship behind, hoping to get back to it at some point.
+We meet up with Thyra and go to Møllehavn.
+
+### Assault on Stormhavn
+
+Meeting up with the rebellion at Møllehavn, we plan to strike Stormhavn the next day.
+A large, distracting force will assault the southern gates while a strike-force consisting of us and Fia, Rasmus (paladin), Dara (rogue), Morsak (barbarian), Mira (cleric), Thorn (fighter), and some ranger whose name I cannot recall (let's call this lore now) sneaks in through the severs near the Eastern gate.
+Making our way to the palace, we find Thyra at the roof and fight her.
+We manage to successfully defeat her, with Fia landing the killing blow.
+
+Afterwards, our companions teleport to assist the main assault while we search the palace for the king.
+Unable to find him in any room, we search the barracks (where the cells are).
+
+### Reward when?!
+
