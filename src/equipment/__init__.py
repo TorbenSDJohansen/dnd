@@ -12,3 +12,5 @@ from .queens_feather import QUEENS_FEATHER
 from .immovable_rod import IMMOVABLE_ROD
 from .artificial_weave_shard_glove import ARTIFICIAL_WEAVE_SHARD_GLOVE
 from .emberwell_vial import EMBERWELL_VIAL
+from .boots_of_the_trackless_tread import BOOTS_OF_THE_TRACKLESS_TREAD
+from .the_black_opal_eye import THE_BLACK_OPAL_EYE

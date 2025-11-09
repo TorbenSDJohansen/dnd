@@ -11,6 +11,8 @@ from ..equipment import (
     IMMOVABLE_ROD,
     ARTIFICIAL_WEAVE_SHARD_GLOVE,
     EMBERWELL_VIAL,
+    BOOTS_OF_THE_TRACKLESS_TREAD,
+    THE_BLACK_OPAL_EYE,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -44,6 +46,12 @@ WEALTH.dcurrency( # 250726
 WEALTH.dcurrency( # 250822
     valg=-10+355-350-3050, # Enter university archive, gold from Urth, buy diamon and give Urth, buy items
 )
+WEALTH.dcurrency( # 250822
+    valg=-10+355-350-3050, # Enter university archive, gold from Urth, buy diamon and give Urth, buy items
+)
+WEALTH.dcurrency( # 250913
+    valg=-270+50,
+)
 
 INVENTORY = Inventory(
     wealth=WEALTH,
@@ -52,6 +60,8 @@ INVENTORY = Inventory(
     torches=10,
     pitons=10,
     crossbow_bolts=19,
+    greater_healing_potions=1,
+    healing_potions=1,
     various=[
         'Bedroll',
         'Small knife',
@@ -62,7 +72,6 @@ INVENTORY = Inventory(
         'Quill',
         'Ink',
         'Letter from a dead colleague posing a question you have not yet been able to answer',
-        'Crystals taken from a mine cart in the Eastern Mine in Jernholm',
         '24 screws',
         '6 nails',
         'Long metal rod from Gorlan, perhaps more than an ordinary piece of metal',
@@ -70,7 +79,8 @@ INVENTORY = Inventory(
         'Papers and a badly damages scroll from Silas Braas (not yet checked out)',
         'Various papers Conrad stole from the office of Silas Braas (not yet checked out)',
         'Worn silver amulet with image of a god (also loot from Vogtor)',
-        'Crossbow',
+        'Blank paper and parchment from Blodens Brise, seems magical but not sure how',
+        'Jewelry, gold, silver, and gems from Blodens Brise',
     ]
 )
 
@@ -85,6 +95,8 @@ EQUIPMENT: dict[str, Item] = {
     IMMOVABLE_ROD.name: IMMOVABLE_ROD,
     ARTIFICIAL_WEAVE_SHARD_GLOVE.name: ARTIFICIAL_WEAVE_SHARD_GLOVE,
     EMBERWELL_VIAL.name: EMBERWELL_VIAL,
+    BOOTS_OF_THE_TRACKLESS_TREAD.name: BOOTS_OF_THE_TRACKLESS_TREAD,
+    THE_BLACK_OPAL_EYE.name: THE_BLACK_OPAL_EYE,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,
@@ -96,9 +108,9 @@ VALGROTG_EMBERSTONE = SorcererCharacter(
     name="Valgroth",
     race="Dwarf",
     cclass="Sorcerer",
-    level=7,
+    level=8,
     background="Sage",
-    armor_class=5,
+    armor_class=10,
     initiative=-1,
     speed=25,
     inspiration=True,
@@ -107,8 +119,8 @@ VALGROTG_EMBERSTONE = SorcererCharacter(
     constitution=12,
     intelligence=12,
     wisdom=12,
-    charisma=13,
-    hp_max=38,
+    charisma=15,
+    hp_max=41,
     proficiency_bonus=3,
     proficiencies=["arcana", "history", "insight", "persuasion", "constitution", "charisma"],
     equipment=EQUIPMENT,
