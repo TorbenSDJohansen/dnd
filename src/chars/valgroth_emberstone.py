@@ -46,9 +46,6 @@ WEALTH.dcurrency( # 250726
 WEALTH.dcurrency( # 250822
     valg=-10+355-350-3050, # Enter university archive, gold from Urth, buy diamon and give Urth, buy items
 )
-WEALTH.dcurrency( # 250822
-    valg=-10+355-350-3050, # Enter university archive, gold from Urth, buy diamon and give Urth, buy items
-)
 WEALTH.dcurrency( # 250913
     valg=-270+50,
 )
