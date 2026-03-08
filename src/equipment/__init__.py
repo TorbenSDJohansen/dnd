@@ -16,3 +16,4 @@ from .boots_of_the_trackless_tread import BOOTS_OF_THE_TRACKLESS_TREAD
 from .the_black_opal_eye import THE_BLACK_OPAL_EYE
 from .monocle_of_identify import MONOCLE_OF_IDENTIFY
 from .powder_of_truth import POWDER_OF_TRUTH
+from .hat_of_elemental_affinity import HAT_OF_ELEMENTAL_AFFINITY

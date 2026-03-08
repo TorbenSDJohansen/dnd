@@ -15,6 +15,7 @@ from ..equipment import (
     THE_BLACK_OPAL_EYE,
     MONOCLE_OF_IDENTIFY,
     POWDER_OF_TRUTH,
+    HAT_OF_ELEMENTAL_AFFINITY,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -99,6 +100,7 @@ EQUIPMENT: dict[str, Item] = {
     THE_BLACK_OPAL_EYE.name: THE_BLACK_OPAL_EYE,
     MONOCLE_OF_IDENTIFY.name: MONOCLE_OF_IDENTIFY,
     POWDER_OF_TRUTH.name: POWDER_OF_TRUTH,
+    HAT_OF_ELEMENTAL_AFFINITY.name: HAT_OF_ELEMENTAL_AFFINITY,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,

@@ -112,3 +112,25 @@ The king suggest we search for **Malor**, a trusted, high-rank guard.
 On the way from the palace to the market place top find him, we further find **Rasmus** (palading) again.
 Returning to the palace, we examine guards one by one with Urth's detect magic to find any more dragonkin.
 We learn they are hidden through the use of magical rings (like ours).
+
+After we ensure a sufficient force of trusted guards, we convince the king to provide a reward for us.
+We are granted permission to use harbors in Vestvold.
+We are then taken to the vault and allowed to select some magical items to keep.
+Conrad acts very weird (*this is the episode where he goes mad after asking his patron for what to take*).
+Valgroth obtains a Hat of Elemental Affinity.
+
+### Leaving
+
+We decide to travel south again to **Tylindra**.
+We make our way back to Møllehavn to pick up our ship, Blodens Brise.
+On the way, we meet with Grundhilda and pay her 1,300 as agreed (from Conrad's bag).
+We ask if she wants to continue travelling with us, but she wants to work for Fia now.
+
+After boarding the ship, we sail back to Stormhavn to find a crew for the ship.
+Here, we hire a crew of 27, paying a total of 34 gold a day.
+We also buy provisions for a month for 282 gold (all paid from Conrad's bag).
+Notable hire: **Lysander** as second in command, 20 years as sailor, previous captain.
+
+Setting sail the next day, we run into issues as all wind dissapears and the ocean becomes totally still.
+Urth says this is hostile forces at play and suggest we man the cannons.
+Valgroth transforms into a collossal squid, managing to push the ship.
