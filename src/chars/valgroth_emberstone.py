@@ -13,6 +13,8 @@ from ..equipment import (
     EMBERWELL_VIAL,
     BOOTS_OF_THE_TRACKLESS_TREAD,
     THE_BLACK_OPAL_EYE,
+    MONOCLE_OF_IDENTIFY,
+    POWDER_OF_TRUTH,
 )
 from ..inventory import Wealth, Inventory
 from ..spells import (
@@ -95,6 +97,8 @@ EQUIPMENT: dict[str, Item] = {
     EMBERWELL_VIAL.name: EMBERWELL_VIAL,
     BOOTS_OF_THE_TRACKLESS_TREAD.name: BOOTS_OF_THE_TRACKLESS_TREAD,
     THE_BLACK_OPAL_EYE.name: THE_BLACK_OPAL_EYE,
+    MONOCLE_OF_IDENTIFY.name: MONOCLE_OF_IDENTIFY,
+    POWDER_OF_TRUTH.name: POWDER_OF_TRUTH,
 }
 SPELLS: dict[str, Spell] = {
     FireBolt.name: FireBolt,

@@ -4,6 +4,8 @@ Kill Silas Braa.
 - **Location**: Gildmereholt, Jernhold
 - **Reward**: 25,000 gold
 
+*This later turns into saving the kingdom of Vestvold.*
+
 ## Details
 
 Silas is defended by six guards
@@ -93,3 +95,20 @@ Unable to find him in any room, we search the barracks (where the cells are).
 
 ### Reward when?!
 
+In the back of the barracks we find a cell with a bed, but no one there.
+Upon investigating the bed, it turns out to be an illusion, and underneath it is a hidden staircase.
+Total silence upon descending, meaning no spellcasting.
+Down there, we finally find the king shackled and release him.
+We then make our way (with the king) to Fia's HQ near the harbor.
+The king is hesitant upon hearing we work for Fia, but after learning of her role in the resistance against Thyra, he seems to change his opinion of her.
+
+After waiting barricaded at Fia's HQ (being unsure of possibility of attack), Fia joins us and we receive our award of 25,000 gold, which we store in Conrad's bag.
+
+### Restoring the King
+
+We now make our way towards the palace with the King, afraid of more hidden dragonkin (*this is also where Urth's vampire arch start*).
+We are stuck in a tough situation, not knowing who to trust.
+The king suggest we search for **Malor**, a trusted, high-rank guard.
+On the way from the palace to the market place top find him, we further find **Rasmus** (palading) again.
+Returning to the palace, we examine guards one by one with Urth's detect magic to find any more dragonkin.
+We learn they are hidden through the use of magical rings (like ours).

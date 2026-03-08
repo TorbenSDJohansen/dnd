@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 quests/monopoly/schedule.png
 quests/monopoly/schedule.py
+/.vscode
